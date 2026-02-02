@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Shreeya Ramdass Bellie',
     title: 'Student | BSc Economics with Data Science',
-    image: getAsset('images/SH_PHOTO(1).png'), // Customize or replace with your profile image
+    image: getAsset('images/SH_PHOTO.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +
