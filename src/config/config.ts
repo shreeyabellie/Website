@@ -16,7 +16,7 @@ const siteConfig = {
       '\n' +
       'Currently pursuing Bsc. Economics and Data Science\n',
     tagline: 'Intellectually rigorous. Casually unhinged.',
-    location: 'Banglore, India',
+    location: 'Bangalore, India',
   },
 
   seo: {
@@ -49,14 +49,18 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Christ (Deemed to be University)',
+      institution: 'xChrist (Deemed to be University)',
       degree: 'BSc Economics with Data Science',
-      year: '2025-2028',
+      year: '2025–2028',
+      image: getAsset('images/education/placeholder.png'),
+      description: ['Brief description of your focus or thesis'],
     },
     {
-      institution: 'BVM Global',
+      institution: 'BVm Global',
       degree: 'Senior Secondary',
       year: '2020-2025',
+      image: getAsset('images/education/placeholder.png'),
+      description: ['Key topics or skills learned'],
     },
   ],
 
@@ -83,13 +87,17 @@ const siteConfig = {
   experience: [
     {
       title: 'Intern',
+      cardImage: getAsset('images/experience/placeholder.png'),
       place: 'Smitam NGO',
       time: '(11/2025 – Present)',
+      desp: ['Brief responsibility 1', 'Brief responsibility 2'],
     },
     {
       title: 'Story Writing Cohort Head',
+      cardImage: getAsset('images/experience/placeholder.png'),
       place: 'Vignette Windows',
       time: '(07/2025 – Present)',
+      desp: ['Key contribution 1', 'Key contribution 2'],
     },
   ],
 
@@ -141,6 +149,8 @@ const siteConfig = {
     email: 'shreeya.bellie@gmail.com',
     linkedin: 'www.linkedin.com/in/shreeya-ramdass-bellie',
     github: 'https://github.com/your-username',
+    googleScholar: 'https://scholar.google.com/citations?user=YOURID',
+    orcid: 'https://orcid.org/0000-0000-0000-0000',
   },
 };
 
