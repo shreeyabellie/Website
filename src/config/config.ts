@@ -110,6 +110,24 @@ const siteConfig = {
     },
   ],
 
+
+  research: [
+    {
+      title: 'Your Paper or Research Title',
+      authors: 'Your Name, Collaborator Name',
+      conferences: 'Conference or Journal, Publisher',
+      researchYr: 2024,
+  image: getAsset('images/research/placeholder.png'),
+      citation: {
+        vancouver:
+          'Author A, Author B. Title of the work. Venue, Year. DOI/URL.',
+      },
+      abstract:
+        'One or two sentences summarizing the contribution...',
+      link: 'https://example.com/your-publication',
+    },
+  ],
+
   books: [
     {
       title: 'Your Book Title',
