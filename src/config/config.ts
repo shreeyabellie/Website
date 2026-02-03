@@ -7,8 +7,8 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Shreeya Ramdass Bellie',
-    title: 'Student | BSc Economics with Data Science',
-    image: getAsset('public/images/Photo.png'), // Customize or replace with your profile image
+    title: 'Student | Bsc. Economics with Data Science',
+    image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
       'A first-year B.Sc. Economics with Data Science student, driven by creativity, analytical curiosity, and leadership rooted in empathy. Skilled at working with teams, writing stories, and solving problems in different situations. Enjoys blending analytical thinking with creative expression to create balanced, effective solutions. Adaptive, multilingual, and wired for cross-functional collaboration.\n' +
       '\n' +
