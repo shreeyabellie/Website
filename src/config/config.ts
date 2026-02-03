@@ -14,11 +14,9 @@ const siteConfig = {
       '\n' +
       'Chirst University, Economic Research.\n' +
       '\n' +
-      'Currently pursuing Bsc. Economics and Data Science\n' +
-      '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+      'Currently pursuing Bsc. Economics and Data Science\n',
+    tagline: 'Intellectually rigorous. Casually unhinged.',
+    location: 'Banglore, I',
   },
 
   seo: {
@@ -26,7 +24,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Student', 'Economic Research'],
 
   navigation: [
     { name: 'Home', url: '/' },
