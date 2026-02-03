@@ -16,7 +16,7 @@ const siteConfig = {
       '\n' +
       'Currently pursuing Bsc. Economics and Data Science\n',
     tagline: 'Intellectually rigorous. Casually unhinged.',
-    location: 'Banglore, I',
+    location: 'Banglore, India',
   },
 
   seo: {
