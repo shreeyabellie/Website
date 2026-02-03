@@ -10,11 +10,11 @@ const siteConfig = {
     title: 'Student | BSc Economics with Data Science',
     image: getAsset('public/images/Photo.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'A first-year B.Sc. Economics with Data Science student, driven by creativity, analytical curiosity, and leadership rooted in empathy. Skilled at working with teams, writing stories, and solving problems in different situations. Enjoys blending analytical thinking with creative expression to create balanced, effective solutions. Adaptive, multilingual, and wired for cross-functional collaboration.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Chirst University, Economic Research.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'Currently pursuing Bsc. Economics and Data Science\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
