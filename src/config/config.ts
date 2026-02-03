@@ -49,18 +49,14 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
-      image: getAsset('images/education/placeholder.png'),
-      description: ['Brief description of your focus or thesis'],
+      institution: 'Christ (Deemed to be University)',
+      degree: 'BSc Economics with Data Science',
+      year: '2025-2028',
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
-      image: getAsset('images/education/placeholder.png'),
-      description: ['Key topics or skills learned'],
+      institution: 'BVM Global',
+      degree: 'Senior Secondary',
+      year: '2020-2025',
     },
   ],
 
@@ -86,18 +82,14 @@ const siteConfig = {
   // ✅ Experience section updated
   experience: [
     {
-      title: 'Your Role',
-      cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Your Organization',
-      time: '(MMM YYYY – Present)',
-      desp: ['Brief responsibility 1', 'Brief responsibility 2'],
+      title: 'Intern',
+      place: 'Smitam NGO',
+      time: '(11/2025 – Present)',
     },
     {
-      title: 'Previous Role',
-      cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Previous Organization',
-      time: '(MMM YYYY – MMM YYYY)',
-      desp: ['Key contribution 1', 'Key contribution 2'],
+      title: 'Story Writing Cohort Head',
+      place: 'Vignette Windows',
+      time: '(07/2025 – Present)',
     },
   ],
 
@@ -118,24 +110,6 @@ const siteConfig = {
     },
   ],
 
-
-  research: [
-    {
-      title: 'Your Paper or Research Title',
-      authors: 'Your Name, Collaborator Name',
-      conferences: 'Conference or Journal, Publisher',
-      researchYr: 2024,
-  image: getAsset('images/research/placeholder.png'),
-      citation: {
-        vancouver:
-          'Author A, Author B. Title of the work. Venue, Year. DOI/URL.',
-      },
-      abstract:
-        'One or two sentences summarizing the contribution...',
-      link: 'https://example.com/your-publication',
-    },
-  ],
-
   books: [
     {
       title: 'Your Book Title',
@@ -146,11 +120,9 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
+    email: 'shreeya.bellie@gmail.com',
+    linkedin: 'www.linkedin.com/in/shreeya-ramdass-bellie',
     github: 'https://github.com/your-username',
-    googleScholar: 'https://scholar.google.com/citations?user=YOURID',
-    orcid: 'https://orcid.org/0000-0000-0000-0000',
   },
 };
 
